@@ -1,4 +1,5 @@
 // http://www.cnblogs.com/lazycoding/archive/2012/03/11/2389820.html
+// https://www.codeproject.com/Articles/76252/What-are-TCHAR-WCHAR-LPSTR-LPWSTR-LPCTSTR-etc
 // what are TCHAR,WCHAR,LPSTR,LPWSTR,LPCTSTR
 
 // 1 character 1 Byte -> ANSI 
